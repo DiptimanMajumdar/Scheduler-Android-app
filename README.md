@@ -1,5 +1,5 @@
 # Scheduler-Android-project
-A to-do list Android app 
+A to-do list Android application.
 
 An Android application built using Java and XML in Android Studio.
 
